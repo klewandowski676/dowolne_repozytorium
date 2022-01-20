@@ -36,3 +36,9 @@ I think I'll use it to format all of my documents from now on.
     - Pierwszy podpunkt
     - Drugi podpunkt
 - Trzeci element
+
+    <html>
+      <head>
+       <link href="style.css" rel="stylesheet">
+      </head>
+    </html>
