@@ -43,4 +43,6 @@ scr.title("Snake game")
 scr.bgcolor("blue")
 ```
 
+Aby wyswietlic liste plikow i katalogow wraz z uprawnieniami uzyj komendy `ls -l` :P.
+
 ![Fajny kotek :)](https://github.com/klewandowski676/dowolne_repozytorium/blob/main/kotek.jpg)
