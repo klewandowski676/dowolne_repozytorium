@@ -37,10 +37,6 @@ I think I'll use it to format all of my documents from now on.
     - Drugi podpunkt
 - Trzeci element
 
-    <html>
-      <head>
-       <link href="style.css" rel="stylesheet">
-      </head>
-    </html>
-
-aaaa
+    scr = turtle.Screen()
+    scr.title("Snake game")
+    scr.bgcolor("blue")
