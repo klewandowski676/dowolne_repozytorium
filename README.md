@@ -30,3 +30,9 @@ I think I'll use it to format all of my documents from now on.
     1. Pierwszy podpunkt
     2. Drugi podpunkt
 5. Piąty element
+
+- Pierwszy element
+- Drugi element
+    - Pierwszy podpunkt
+    - Drugi podpunkt
+- Trzeci element
