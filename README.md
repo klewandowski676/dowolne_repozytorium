@@ -21,4 +21,12 @@ I think I'll use it to format all of my documents from now on.
 >
 > Szczypiąc trawę ciągneły powoli pod bramę. 
 
-W
+1. Pierwszy element
+2. Drugi element
+3. Trzeci element
+    1. Pierwszy podpunkt
+    2. Drugi podpunkt
+4. Czwarty element
+    1. Pierwszy podpunkt
+    2. Drugi podpunkt
+5. Piąty element
