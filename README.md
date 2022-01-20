@@ -42,3 +42,5 @@ scr = turtle.Screen()
 scr.title("Snake game")
 scr.bgcolor("blue")
 ```
+
+![Fajny kotek :)](https://github.com/klewandowski676/dowolne_repozytorium/blob/main/kotek.jpg)
